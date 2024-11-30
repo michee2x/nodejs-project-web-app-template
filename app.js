@@ -6,7 +6,7 @@
 const express = require("express")
 const constants = require('./constants/constants')
 
-//EXPRESS APP 
+//EXPRESS APPE 
 const app = express()
 
 //CONFIGURATION
